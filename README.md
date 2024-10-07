@@ -1,1 +1,1 @@
-# Hi, my name is Tyrrone 
+# Hi, my name is Tyrrone , an IT Professional! 
