@@ -14,7 +14,3 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/MrTdh1974/configure-ad)
 
 
-<h2>Connect with me:</h2>
-
-[linkedin]: www.linkedin.com/in/tyrron-hinton-81aa5949
-[instagram]: https://www.instagram.com/throwbackty74?igsh=MXUxY2N1dzA0dXRidQ%3D%3D&utm_source=qr
